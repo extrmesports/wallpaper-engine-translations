@@ -1,6 +1,6 @@
 {
-    "core_tray_browse_workshop": "Browse [[[Host]]]",
-    "core_msgbox_ui_file_not_found": "The program files cannot be opened.\n\nYou might have invalid characters in the installation path, the file might be missing or the program might be blocked by an anti-virus.\n\nTry installing Wallpaper Engine in the same directory as [[[Platform]]] or create a [[[Platform]]] library with simple characters.",
-    "core_updater_status_distro_file_delete": "Deleting file: {{filepath}}",
-    "core_updater_status_distro_file_delete_error": "Failed to delete file: {{error}}"
+    "core_tray_browse_workshop": "[[[Host]]] Gözat",
+    "core_msgbox_ui_file_not_found": "Program dosyaları açılamıyor.\n\nYükleme yolunda geçersiz karakterler olabilir, dosya eksik olabilir veya program bir anti-virüs tarafından engellenmiş olabilir.\n\nWallpaper Engine'i [[[Platform]]] ile aynı dizine yüklemeyi deneyin veya basit karakterler içeren bir [[[Platform]]] kütüphanesi oluşturun.",
+    "core_updater_status_distro_file_delete": "Dosya siliniyor: {{filepath}}",
+    "core_updater_status_distro_file_delete_error": "Dosya silinirken başarısız olundu: {{error}}"
 }
